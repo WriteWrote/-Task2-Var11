@@ -32,25 +32,25 @@
 
 ### Molecule
 // **Fields:** atoms
-**Fields:** protons, electrons, neutrons
-**Methods:** 
+- **Fields:** protons, electrons, neutrons
+- **Methods:** 
 1. определение суммарной энергии взаимодействия атомов,
 2. определение массы молекулы,
 3. определение суммарной массы нуклонов и электронов,
 4. определение числа атомов одного типа в молекуле.
 
 ### Electron
-**Fields:** ...
-**Methods:** ...
+- **Fields:** ...
+- **Methods:** ...
 
 ### Quark
-**Fields:** boolean Up-quark
-**Methods:** ...
+- **Fields:** boolean Up-quark
+- **Methods:** ...
 
 ### Proton
-**Fields:** quarks
-**Methods:** ...
+- **Fields:** quarks
+- **Methods:** ...
 
 ### Neutron
-**Fields:** quarks
-**Methods:** ...
+- **Fields:** quarks
+- **Methods:** ...
